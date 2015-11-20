@@ -1,0 +1,2 @@
+1. npm install grunt-contrib-imagemin --save-dev
+2. npm install grunt-contrib-concat --save-dev
